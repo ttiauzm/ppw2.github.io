@@ -1594,6 +1594,9 @@ footer {
         font-size: 16px;
     }
 
+    .badge {
+        font-size: 16px;
+
     .product-card {
         width: 30%;
         margin-bottom: 20px;
